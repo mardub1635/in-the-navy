@@ -1,22 +1,22 @@
 ## In the shell script
-#2022-11-17 by Marie Dubremetz. On the music of In the navy by the village people
+##2022-11-17 by Marie Dubremetz. On the music of In the navy by the village people
 - Original lyrics Proposed new lyrics
-- Where can you find pleasure, search the world for treasure ___  Where can you find find power, be a superuser
-- Learn science technology? ___  Learn shell and technology
+- Where can you find pleasure, search the world for treasure @@  Where can you find find power, be a superuser
+- Learn science technology? @@  Learn shell and technology
 - Where can you begin to make your dreams all come true
-- On the land or on the sea? ___ by command rather than gui
-- Where can you learn to fly, play in sports and skin dive ___ where can you make programs, locate folder, f ___  ___ read source file change move delete
-- Study oceanography? ___ forget to use cd!
-- Sign off for the big band or sit in the grandstand ___ search the doc via "man" , shave like Richard stallman
+- On the land or on the sea? @@ by command rather than gui
+- Where can you learn to fly, play in sports and skin dive @@ where can you make programs, locate folder, f @@  @@ read source file change move delete
+- Study oceanography? @@ forget to use cd!
+- Sign off for the big band or sit in the grandstand @@ search the doc via "man" , shave like Richard stallman
 - When your team and others meet
-- In the navy ___ in the shell script
-- Yes, you can sail the seven seas ___  path absolute or relative? ___  ___ yes you can hack everyones'screens
-- In the navy ___ in the shell script
-- Yes, you can put your mind at ease ___ be careful it's case sensitive!
-- In the navy ___ in the shell script
-- Come on now, people, make a stand ___  come on now people  command
+- In the navy @@ in the shell script
+- Yes, you can sail the seven seas @@  path absolute or relative? @@  @@ yes you can hack everyones'screens
+- In the navy @@ in the shell script
+- Yes, you can put your mind at ease @@ be careful it's case sensitive!
+- In the navy @@ in the shell script
+- Come on now, people, make a stand @@  come on now people  command
 - In the navy, in the navy
-- Can't you see we need a hand ___ 
+- Can't you see we need a hand @@ 
 - In the navy
 - Come on, protect the motherland
 - In the navy
