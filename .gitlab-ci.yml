@@ -1,4 +1,4 @@
-mage:
+image:
   name: pandoc/core:2.11.3.1
   entrypoint: ["/bin/sh", "-c"]
 pages:
