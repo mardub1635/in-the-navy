@@ -5,8 +5,8 @@ On the music of "In the navy by the village people"`
 
 
 
-In the shell script
-yes you hack on every screens
+- In the shell script
+- yes you hack on every screens
 
 Where can you find pleasure, search the world for treasure/find power, be a superuser
 - Learn science technology?/ Learn shell and technology
