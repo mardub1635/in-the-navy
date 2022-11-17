@@ -1,0 +1,14 @@
+mage:
+  name: pandoc/core:2.11.3.1
+  entrypoint: ["/bin/sh", "-c"]
+pages:
+  stage: deploy
+  script:
+  - mkdir public
+  - pandoc -s -f markdown -t html index.md -o public/index.html
+  artifacts:
+    paths:
+    - public
+  only:
+  - master
+
