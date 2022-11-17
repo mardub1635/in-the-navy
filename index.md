@@ -4,7 +4,7 @@ On the music of In the navy by the village people`
 - Original lyrics Proposed new lyrics
 - In the shell script
 - yes you hack on every screens
-- Where can you find pleasure, search the world for treasure/ Where can you find find power, be a superuser*
+- Where can you find pleasure, search the world for treasure/ Where can you find find power, be a superuser
 - Learn science technology?/ Learn shell and technology
 - Where can you begin to make your dreams all come true
 - On the land or on the sea?/by command rather than gui
