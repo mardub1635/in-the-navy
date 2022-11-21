@@ -1,14 +1,8 @@
 ## In the shell script
-`2022-11-17 by Marie Dubremetz.
-On the music of "In the navy by the village people"`
-- Original lyrics / Proposed new lyrics
 
+##2022-11-17 by Marie Dubremetz. On the music of In the navy by the village people
 
-
-In the shell script
-yes you hack on every screens
-
-Where can you find pleasure, search the world for treasure/find power, be a superuser
+- Where can you find pleasure, search the world for treasure/find power, be a superuser
 - Learn science technology?/ Learn prompt and technology
 - Where can you begin to make your dreams all come true
 - On the land or on the sea?/by command rather than gui?
@@ -84,24 +78,3 @@ Where can you find pleasure, search the world for treasure/find power, be a supe
 - Come on and join your fellow man
 - In the navy
 - Come on people and make a stand
-
-
-Village People – In the Navy Lyrics - Genius https://genius.com › Village-people-i...
-·
-Traduire cette page
-[Verse 1] Where can you find pleasure. Search the world for treasure. Learn science technology. Where can you begin to make your dreams all come true
-Autres questions posées
-What ship was In The Navy filmed on?
-How many of The Village People are still alive?
-Who wrote the song In The Navy?
-How many original Village People were there?
-Commentaires
-
-Village People - In The Navy Lyrics | AZLyrics.comhttps://www.azlyrics.com › lyrics › i...
-·
-Traduire cette page
-What am I gonna do in a submarine? They want you, they want you in the navy. In the navy. Yes, you can sail the seven seas. In the navy
-Vidéos
-
-3:54
-
