@@ -22,7 +22,7 @@ access root with a slash, escape with anti-slash//search the doc via "man" , sha
 - In the navy, in the navy/in the shell script, in the shell script
 - Can't you see we need a hand/ Don't put space in your filenames
 - In the navy/in the shell script
-- Come on, protect the motherland/ or put space in the right place!
+- Come on, protect the motherland/ or put quotes in the right place!
 - In the navy / 
 - Come on and join your fellow man /  But how to change directory?
 - In the navy / Just use CD
@@ -83,7 +83,7 @@ access root with a slash, escape with anti-slash//search the doc via "man" , sha
 - Come on people and make a stand
 
 | Original | New lyrics |
-| --------------- | -------------------------------- |
+| ----------------------------------------------------- | ----------------------------------------------------------------------------------- |
 | Where can you find pleasure, search the world for treasure | Where can you find power, be a superuser |
 | Learn science technology? | Learn prompt and technology |
 | Where can you begin to make your dreams all come true | Where can you begin to make your dreams all come true |           
@@ -102,8 +102,8 @@ access root with a slash, escape with anti-slash |  | search the doc via "man" ,
 | In the navy, in the navy | in the shell script, in the shell script |
 | Can't you see we need a hand |  Don't put space in your filenames |
 | In the navy | in the shell script |
-| Come on, protect the motherland |  or put space in the right place! |
-| In the navy  |   |
+| Come on, protect the motherland |  or put quotes in the right place! |
+| In the navy  |  In the shell script |
 | Come on and join your fellow man  |   But how to change directory? |
 | In the navy  |  Just use CD |
 | Come on people and make a stand  |  Oh right I type DIR or CD! |
@@ -120,44 +120,44 @@ access root with a slash, escape with anti-slash |  | search the doc via "man" ,
 | Protecting the land and sea  |  CTRL+R search, you will see |
 | In the navy  |  in the shell script |
 | Yes, you can sail the seven seas  | " No such file or directory" |
-| In the navy |
+| In the navy | In the shell script
 | Yes, you can put your mind at ease |  "Operation is not permited!" |
-| In the navy |
+| In the navy | in the shell script |
 | Come on people, fall an' make a stand  |  come on now people use command |
+| In the navy, in the navy | in the shell script, in the shell script |
+| Can't you see we need a hand  |  Don't put space in your filenames |
+| In the navy | in the shell script |
+| Come on, protect the motherland | or put slash behind the space |
+| In the navy | in the shell script |
+| Come on and join your fellow man |  come on now people use command |
+| In the navy | in the shell script |
+| Come on people and make a stand |   But how to change directory? |
+| In the navy, in the navy, in the navy, in the navy | in the shell script, in the shell script, in the shell script |
+| They want you, they want you  |  press the tab, press the tab |
+| They want you as a new recruit  |  press the tab will autocomplete |
+| Who me? | mv? |
+| They want you, they want you |  press the tab, press the tab |
+| They want you as a new recruit |  press the tab will autocomplete |
+| But, but, but, I'm afraid of water | but, but, but, I can't remove the folder! |
+| Hey, hey look man  | I read the man |
+| I get seasick even watchin' it on TV | But it said rm removed files only |
+| They want you, they want you in the navy | press the tab in the shell script |
+| Oh my goodness | Oh check ls |
+| They want you  | not empty, not empty |
+| What am I gonna do in a submarine? | What do you mean recursive? |
+| They want you | press the tab |
+| They want you, they want you in the navy | 
+| In the navy | in the shell script |
+| Yes, you can sail the seven seas
+| In the navy | in the shell script |
+| Yes, you can put your mind at ease
+| In the navy | in the shell script |
+| Come on people, fall in make a stand |
 | In the navy, in the navy |
-| Can't you see we need a hand  |   |
-| In the navy |
-| Come on, protect the motherland |
-| In the navy |
+| Can't you see we need a hand
+| In the navy | in the shell script |
+| Come on, protect the motherland
+| In the navy | in the shell script |
 | Come on and join your fellow man
-- In the navy
-- Come on people and make a stand
-- In the navy, in the navy, in the navy, in the navy
-- They want you, they want you
-- They want you as a new recruit
-- Who me?
-- They want you, they want you
-- They want you as a new recruit
-- But, but, but, I'm afraid of water
-- Hey, hey look man
-- I get seasick even watchin' it on TV
-- They want you, they want you in the navy
-- Oh my goodness
-- They want you 
-- What am I gonna do in a submarine?
-- They want you
-- They want you, they want you in the navy
-- In the navy
-- Yes, you can sail the seven seas
-- In the navy
-- Yes, you can put your mind at ease
-- In the navy
-- Come on people, fall in make a stand
-- In the navy, in the navy
-- Can't you see we need a hand
-- In the navy
-- Come on, protect the motherland
-- In the navy
-- Come on and join your fellow man
-- In the navy
-- Come on people and make a stand
+| In the navy | in the shell script |
+| Come on people and make a stand
