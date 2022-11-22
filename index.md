@@ -83,12 +83,12 @@ access root with a slash, escape with anti-slash//search the doc via "man" , sha
 - Come on people and make a stand
 
 | Original | New lyrics |
-| ----------- | ----------- |
+| --------------- | -------------------------------- |
 | Where can you find pleasure, search the world for treasure | Where can you find power, be a superuser |
 | Learn science technology? | Learn prompt and technology |
 | Where can you begin to make your dreams all come true | Where can you begin to make your dreams all come true |           
 | On the land or on the sea? |by command rather than gui? |
-| Where can you learn to fly, play in sports and skin dive | where can you make programs change or  move delete files |
+|    Where can you learn to fly, play in sports and skin dive | where can you make programs change or  move delete files |
 | Study oceanography? | in just one letter or three? |
 | Sign off for the big band or sit in the grandstand  |  enigmatic white dash, blincking on this black bash  |  | 
 access root with a slash, escape with anti-slash |  | search the doc via "man" , shave like Richard stallman |
