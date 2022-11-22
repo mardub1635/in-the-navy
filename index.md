@@ -70,11 +70,11 @@ access root with a slash, escape with anti-slash |  | search the doc via "man" ,
 | They want you | press the tab |
 | They want you, they want you in the navy | 
 | In the navy | in the shell script |
-| Yes, you can sail the seven seas
+| Yes, you can sail the seven seas | path absolute or relative ? |
 | In the navy | in the shell script |
-| Yes, you can put your mind at ease
+| Yes, you can put your mind at ease | be careful it's case sensitive |
 | In the navy | in the shell script |
-| Come on people, fall in make a stand |
+| Come on people, fall in make a stand | Are you sure it's the right command? |
 | In the navy, in the navy | in the shell script, in the shell script |
 | Can't you see we need a hand  |  Don't put space in your filenames |
 | In the navy | in the shell script |
