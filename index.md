@@ -2,14 +2,17 @@
 
 ##2022-11-17 by Marie Dubremetz. On the music of In the navy by the village people
 
-- Where can you find pleasure, search the world for treasure/find power, be a superuser
+## Original lyrics / New lyrics // optional other lyrics
+
+- Where can you find pleasure, search the world for treasure/Where can you find power, be a superuser
 - Learn science technology?/ Learn prompt and technology
 - Where can you begin to make your dreams all come true
 - On the land or on the sea?/by command rather than gui?
-- Where can you learn to fly, play in sports and skin dive/where can you make programs change move delete files
+- Where can you learn to fly, play in sports and skin dive/where can you make programs change or  move delete files
 - Study oceanography?/in just one letter or three?
-- Sign off for the big band or sit in the grandstand/search the doc via "man" , shave like Richard stallman
-- When your team and others meet/ When others keep double click?
+- Sign off for the big band or sit in the grandstand / enigmatic white dash, blincking on this black bash //
+access root with a slash, escape with anti-slash//search the doc via "man" , shave like Richard stallman
+- When your team and others meet/ Why my shell says "File missing"? //When others keep double click?
 - In the navy/in the shell script
 - Yes, you can sail the seven seas/ path absolute or relative?//yes you can hack everyones'screens
 - In the navy/in the shell script
@@ -20,29 +23,29 @@
 - Can't you see we need a hand/ Don't put space in your filenames
 - In the navy/in the shell script
 - Come on, protect the motherland/ or put space in the right place!
-- In the navy /
+- In the navy / 
 - Come on and join your fellow man /  But how to change directory?
-- In the navy
-- Come on people and make a stand / Oh wait I type DIR or CD!
+- In the navy / Just use CD
+- Come on people and make a stand / Oh right I type DIR or CD!
 - In the navy, in the navy, in the navy, oh
-- They want you, they want you
-- They want you as a new recruit
+- They want you, they want you / press the tab, press the tab
+- They want you as a new recruit / press the tab will autocomplete
 - If you like adventure, don't you wait to enter / count with wc don't forget the dash -c
 - The recruiting office fast / That will count your characters
 - Don't you hesitate, there is no need to wait / But if I were you, I'd add dash -w
 - They're signing up new seamen fast / and count both words and letters
-- Maybe you are too young to join up today
-- But don't you worry 'bout a thing
-- For I'm sure there will be always a good navy
-- Protecting the land and sea
+- Maybe you are too young to join up today / Forget click by the way, CTRL+E CTRL+A
+- But don't you worry 'bout a thing/ will be far more rescuing!
+- For I'm sure there will be always a good navy / And with your arrow key explore your history
+- Protecting the land and sea / CTRL+R search, you will see
+- In the navy / in the shell script
+- Yes, you can sail the seven seas /" No such file or directory"
 - In the navy
-- Yes, you can sail the seven seas
+- Yes, you can put your mind at ease/ "Operation is not permited!"
 - In the navy
-- Yes, you can put your mind at ease
-- In the navy
-- Come on people, fall an' make a stand
+- Come on people, fall an' make a stand / come on now people use command
 - In the navy, in the navy
-- Can't you see we need a hand
+- Can't you see we need a hand / 
 - In the navy
 - Come on, protect the motherland
 - In the navy
