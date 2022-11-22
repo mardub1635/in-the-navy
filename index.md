@@ -14,7 +14,7 @@
 | Study oceanography? | in just one letter or three? |
 | Sign off for the big band or sit in the grandstand  |  enigmatic white dash, blincking on my black bash  |  | 
 access root with a slash, escape with anti-slash |  | search the doc via "man" , shave like Richard stallman |
-| When your team and others meet |  Why my shell says "File missing"?  |  | When others keep double click? |
+| When your team and others meet |  Why the message "File missing"?  |  | When others keep double click? |
 | In the navy | in the shell script |
 | Yes, you can sail the seven seas |  path absolute or relative? |  | yes you can hack everyones'screens |
 | In the navy | in the shell script |
@@ -45,7 +45,7 @@ access root with a slash, escape with anti-slash |  | search the doc via "man" ,
 | In the navy | In the shell script
 | Yes, you can put your mind at ease |  "Operation is not permited!" |
 | In the navy | in the shell script |
-| Come on people, fall an' make a stand  | Do you still want to use  command? |
+| Come on people, fall an' make a stand  | Are you sure it's the right command? |
 | In the navy, in the navy | in the shell script, in the shell script |
 | Can't you see we need a hand  |  Don't put space in your filenames |
 | In the navy | in the shell script |
@@ -53,15 +53,15 @@ access root with a slash, escape with anti-slash |  | search the doc via "man" ,
 | In the navy | in the shell script |
 | Come on and join your fellow man |  come on now people use command |
 | In the navy | in the shell script |
-| Come on people and make a stand |   But how to change directory? |
+| Come on people and make a stand |   But how to move directory? |
 | In the navy, in the navy, in the navy, in the navy | in the shell script, in the shell script, in the shell script |
 | They want you, they want you  |  press the tab, press the tab |
 | They want you as a new recruit  |  press the tab will autocomplete |
-| Who me? | mv? |
+| Who me? | *mv?* |
 | They want you, they want you |  press the tab, press the tab |
 | They want you as a new recruit |  press the tab will autocomplete |
 | But, but, but, I'm afraid of water | *but, but, but, I can't remove the folder!* |
-| Hey, hey look man  | I read the man |
+| Hey, hey look man  | *I read the "man"* |
 | I get seasick even watchin' it on TV | *But rm -d says it's not empty* |
 | They want you, they want you in the navy | press the tab in the shell script |
 | Oh my goodness | *Oh check ls* |
