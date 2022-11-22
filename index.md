@@ -86,3 +86,7 @@ access root with a slash, escape with anti-slash//search the doc via "man" , sha
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
+| - Where can you find pleasure, search the world for treasure | Where can you find power, be a superuser |
+| - Learn science technology? | Learn prompt and technology |
+| - Where can you begin to make your dreams all come true |
+| - On the land or on the sea? |by command rather than gui? |
