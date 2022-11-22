@@ -1,10 +1,10 @@
-## In the shell script
+# In the shell script
 
 ## 2022-11-17 by Marie Dubremetz. On the music of In the navy by the village people
 
-# [https://mardub.gitlab.io/song/](https://mardub.gitlab.io/song/)
+# [video](https://diode.zone/w/r1QtvPKcx1rqMNyZG8Ti6P)
 ## Original lyrics / New lyrics // optional other lyrics
-
+## [https://mardub.gitlab.io/song/](Website)
 | Original | New lyrics |
 | ----------------------------------------------------- | ----------------------------------------------------------------------------------- |
 | Where can you find pleasure, search the world for treasure | Where can you find power, be a superuser |
