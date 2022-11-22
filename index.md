@@ -1,7 +1,8 @@
 ## In the shell script
 
-##2022-11-17 by Marie Dubremetz. On the music of In the navy by the village people
+## 2022-11-17 by Marie Dubremetz. On the music of In the navy by the village people
 
+# [https://mardub.gitlab.io/song/](https://mardub.gitlab.io/song/)
 ## Original lyrics / New lyrics // optional other lyrics
 
 | Original | New lyrics |
