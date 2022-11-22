@@ -81,3 +81,8 @@ access root with a slash, escape with anti-slash//search the doc via "man" , sha
 - Come on and join your fellow man
 - In the navy
 - Come on people and make a stand
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
