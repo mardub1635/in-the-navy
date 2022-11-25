@@ -1,9 +1,8 @@
 # In the shell script
 
-## 2022-11-17 by Marie Dubremetz. On the music of In the navy by the village people
-
+## On the music of In the navy by the village people
+# HELP ! I need a singer, and a video maker
 # [video](https://diode.zone/w/r1QtvPKcx1rqMNyZG8Ti6P)
-## Original lyrics / New lyrics // optional other lyrics
 ## [https://mardub.gitlab.io/song/](Website)
 | Original | New lyrics |
 | ----------------------------------------------------- | ----------------------------------------------------------------------------------- |
