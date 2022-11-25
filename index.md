@@ -2,7 +2,7 @@
 
 ## On the music of In the navy by the village people
 ## [https://mardub.gitlab.io/song/](Website)
-# HELP ! I need a singer, and a video maker see issues
+# HELP ! I need a singer, and a video maker see [./Readme.md](README)
 # [video](https://diode.zone/w/r1QtvPKcx1rqMNyZG8Ti6P)
 
 | Original | New lyrics |
