@@ -84,3 +84,10 @@ access root with a slash, escape with anti-slash |  | search the doc via "man" ,
 | Come on and join your fellow man | come on now people use command |
 | In the navy | in the shell script |
 | Come on people and make a stand | Don't put space in your filenames |
+
+# Acknowledgement
+Thanks to my colleagues at [Uppsala Women Coding](https://www.meetup.com/fr-FR/Uppsala-women-coding-beginners-welcome/) for boosting the local coding community. In particular, [Kattis for her terminal workshop](https://github.com/kattisA/terminal-workshop) and [Carolina for her blogpost](https://46elks.se/blog/2022/02/guide-terminalen) that helps Swedish beginners to learn and thanks to both of them their ever enthousiastic organisation efforts!
+
+
+# Credits
+Lyricist: @mardub (gitlab) or @mardub1635 (github)
