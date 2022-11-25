@@ -15,5 +15,16 @@ Since the project is both on github and gitlab I store the issues in this Readme
 
 - [ ] Parody movie: Once the music is sang creating a video that would display what the lyrics mean (for instance screenshots of the error messages evoked in the song etc.)
 
+- [ ] Promote, for this project to develop I need a good promoter. You can also credited for that.
+
+
+# Acknowledgement
+Thanks to my colleagues at [Uppsala Women Coding](https://www.meetup.com/fr-FR/Uppsala-women-coding-beginners-welcome/) for boosting the local coding community. In particular, [Kattis for her terminal workshop](https://github.com/kattisA/terminal-workshop) and [Carolina for her blogpost](https://46elks.se/blog/2022/02/guide-terminalen) that helps Swedish beginners to learn and thanks to both of them their ever enthousiastic organisation efforts!
+
+# Credits
+Lyricist: @mardub (gitlab) or @mardub1635 (github)
+
+
+
 
 

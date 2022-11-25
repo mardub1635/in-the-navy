@@ -2,7 +2,7 @@
 
 ## On the music of In the navy by the village people
 ## [https://mardub.gitlab.io/song/](Website)
-# HELP ! I need a singer, and a video maker see [./Readme.md](README)
+# HELP ! I need a singer [Readme.md](https://gitlab.com/mardub/song)
 # [video](https://diode.zone/w/r1QtvPKcx1rqMNyZG8Ti6P)
 
 | Original | New lyrics |
@@ -38,7 +38,7 @@ access root with a slash, escape with anti-slash |  | search the doc via "man" ,
 | Don't you hesitate, there is no need to wait  |  But if I were you, 'would use -w |
 | They're signing up new seamen fast  |  that count words and rhymes better! |
 | Maybe you are too young to join up today  |  Forget click by the way, CTRL+E CTRL+A |
-| But don't you worry 'bout a thing |  will be far more rescuing! |
+| But don't you worry 'bout a thing |  will be far more insteresting! |
 | For I'm sure there will be always a good navy  |  Push up your arrow key, explore your history |
 | Protecting the land and sea  |  Press CTRL+R and you will see |
 | In the navy  |  in the shell script |
