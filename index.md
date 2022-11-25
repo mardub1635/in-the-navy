@@ -1,12 +1,11 @@
 # In the shell script
 
 ## On the music of "In the navy" by the village people
-## [https://mardub.gitlab.io/song/](Website)
 # HELP ! I need a singer [see Issues](https://gitlab.com/mardub/song/-/blob/main/Readme.md)
-## [video](https://diode.zone/w/r1QtvPKcx1rqMNyZG8Ti6P)
+## You can listen to part of the song in this prototype [video](https://diode.zone/w/r1QtvPKcx1rqMNyZG8Ti6P)
 
 | Original | New lyrics |
-| ----------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| -------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
 | Where can you find pleasure, search the world for treasure | Where can you find power, be a superuser |
 | Learn science technology? | Learn prompt and technology |
 | Where can you begin to make your dreams all come true | Where can you begin to make your dreams all come true |           
@@ -30,7 +29,7 @@ access root with a slash, escape with anti-slash |  | search the doc via "man" ,
 | Come on and join your fellow man  |   But how to change directory? |
 | In the navy  |  Just use CD |
 | Come on people and make a stand  |  Oh right I type DIR or CD! |
-| In the navy, in the navy, in the navy, oh | In the shell script, in the shell script, in the shell script, oh
+| In the navy, in the navy, in the navy, oh | In the shell script, in the shell script, oh
 | They want you, they want you  |  press the tab, press the tab |
 | They want you as a new recruit  |  press the tab will autocomplete |
 | If you like adventure, don't you wait to enter  |  count with wc don't forget the dash -c |
@@ -40,7 +39,7 @@ access root with a slash, escape with anti-slash |  | search the doc via "man" ,
 | Maybe you are too young to join up today  |  Forget click by the way, CTRL+E CTRL+A |
 | But don't you worry 'bout a thing |  will be far more insteresting! |
 | For I'm sure there will be always a good navy  |  Push up your arrow key, explore your history |
-| Protecting the land and sea  |  Press CTRL+R and you will see |
+| Protecting the land and sea  |  CTRL+R and you will see |
 | In the navy  |  in the shell script |
 | Yes, you can sail the seven seas  | " No such file or directory" |
 | In the navy | In the shell script
@@ -85,9 +84,11 @@ access root with a slash, escape with anti-slash |  | search the doc via "man" ,
 | In the navy | in the shell script |
 | Come on people and make a stand | Don't put space in your filenames |
 
+
 # Acknowledgement
 Thanks to my colleagues at [Uppsala Women Coding](https://www.meetup.com/fr-FR/Uppsala-women-coding-beginners-welcome/) for boosting the local coding community. In particular, [Kattis for her terminal workshop](https://github.com/kattisA/terminal-workshop) and [Carolina for her blogpost](https://46elks.se/blog/2022/02/guide-terminalen) that helps Swedish beginners to learn and thanks to both of them their ever enthousiastic organisation efforts!
 
+On the more international community, the lyrics writing was a lot inspired by the notebook of [Melanie Walsh](https://melaniewalsh.github.io/Intro-Cultural-Analytics/01-Command-Line/01-The-Command-Line.html). It helped me ajusting the level to beginners student and it is excellent material for my students.
 
 # Credits
-Lyricist: @mardub (gitlab) or @mardub1635 (github)
+Lyricist: @mardub (gitlab) or @mardub1635 (github) feel free to contact me at: mardubr-site@yahoo.com www.uppsala.ai
