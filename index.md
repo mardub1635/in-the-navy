@@ -25,7 +25,7 @@ access root with a slash, escape with anti-slash |  | search the doc via "man" ,
 | In the navy, in the navy | in the shell script |
 | Can't you see we need a hand |  Stop putting space in filnames! |
 | In the navy | in the shell script |
-| Come on, protect the motherland | Or put quotes keep in the game! |
+| Come on, protect the motherland | Or put quotes around pathnames! |
 | In the navy  |  In the shell script |
 | Come on and join your fellow man  |   But how to change directory? |
 | In the navy  |  Just use CD |
