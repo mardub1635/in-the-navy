@@ -1,9 +1,10 @@
 # In the shell script
 
 ## On the music of In the navy by the village people
-# HELP ! I need a singer, and a video maker
-# [video](https://diode.zone/w/r1QtvPKcx1rqMNyZG8Ti6P)
 ## [https://mardub.gitlab.io/song/](Website)
+# HELP ! I need a singer, and a video maker see issues
+# [video](https://diode.zone/w/r1QtvPKcx1rqMNyZG8Ti6P)
+
 | Original | New lyrics |
 | ----------------------------------------------------- | ----------------------------------------------------------------------------------- |
 | Where can you find pleasure, search the world for treasure | Where can you find power, be a superuser |
