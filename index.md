@@ -25,12 +25,12 @@ access root with a slash, escape with anti-slash |  | search the doc via "man" ,
 | In the navy, in the navy | in the shell script |
 | Can't you see we need a hand |  Stop putting space in filnames! |
 | In the navy | in the shell script |
-| Come on, protect the motherland | Or put quotes around pathnames! |
+| Come on, protect the motherland | Or put quotes around your pathnames! |
 | In the navy  |  In the shell script |
 | Come on and join your fellow man  |   But how to change directory? |
 | In the navy  |  Just use CD |
 | Come on people and make a stand  |  Oh right I type DIR or CD! |
-| In the navy, in the navy, in the navy, oh |
+| In the navy, in the navy, in the navy, oh | In the shell script, in the shell script, in the shell script, oh
 | They want you, they want you  |  press the tab, press the tab |
 | They want you as a new recruit  |  press the tab will autocomplete |
 | If you like adventure, don't you wait to enter  |  count with wc don't forget the dash -c |
@@ -39,8 +39,8 @@ access root with a slash, escape with anti-slash |  | search the doc via "man" ,
 | They're signing up new seamen fast  |  that count words and rhymes better! |
 | Maybe you are too young to join up today  |  Forget click by the way, CTRL+E CTRL+A |
 | But don't you worry 'bout a thing |  will be far more rescuing! |
-| For I'm sure there will be always a good navy  |  And with your arrow key explore your history |
-| Protecting the land and sea  |  CTRL+R search, you will see |
+| For I'm sure there will be always a good navy  |  Push up your arrow key, explore your history |
+| Protecting the land and sea  |  Press CTRL+R and you will see |
 | In the navy  |  in the shell script |
 | Yes, you can sail the seven seas  | " No such file or directory" |
 | In the navy | In the shell script
