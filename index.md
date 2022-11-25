@@ -15,9 +15,9 @@
 | Study oceanography? | in just one letter or three? |
 | Sign off for the big band or sit in the grandstand  |  enigmatic white dash, blincking on my black bash  |  | 
 access root with a slash, escape with anti-slash |  | search the doc via "man" , shave like Richard stallman |
-| When your team and others meet |  Why the message "File missing"?  |  | When others keep double click? |
+| When your team and others meet |  Why the message "File missing"?  |
 | In the navy | in the shell script |
-| Yes, you can sail the seven seas |  path absolute or relative? |  | yes you can hack everyones'screens |
+| Yes, you can sail the seven seas |  path absolute or relative? |
 | In the navy | in the shell script |
 | Yes, you can put your mind at ease | be careful it's case sensitive! |
 | In the navy | in the shell script |
