@@ -4,7 +4,7 @@ This repo parodies the music "In the navy" for terminal learners. Come and join 
 # Links
 The result is published on a gitlab page https://mardub.gitlab.io/song/ .
 
-The project itself is hosted both on [github](https://github.com/mardub1635/in-the-navy) and [gitlab](https://gitlab.com/mardub/song/-/blob/main/index.md) you can fork from any of these.
+The project itself is hosted both on [github](https://github.com/mardub1635/in-the-navy) and [gitlab](https://gitlab.com/mardub/song) you can fork from any of these.
 # Issues
 Since the project is both on github and gitlab I store the issues in this Readme. Feel free to create issue you want to solve in the format and platform you prefer.
 - [ ] *Sing!* This project needs a singer. I cannot sing myself. If you always dreamed of using your voice to serve a noble cause it is your opportunity!

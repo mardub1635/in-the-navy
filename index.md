@@ -1,9 +1,9 @@
 # In the shell script
 
-## On the music of In the navy by the village people
+## On the music of "In the navy" by the village people
 ## [https://mardub.gitlab.io/song/](Website)
-# HELP ! I need a singer [Readme.md](https://gitlab.com/mardub/song)
-# [video](https://diode.zone/w/r1QtvPKcx1rqMNyZG8Ti6P)
+# HELP ! I need a singer [see Issues](https://gitlab.com/mardub/song/-/blob/main/Readme.md)
+## [video](https://diode.zone/w/r1QtvPKcx1rqMNyZG8Ti6P)
 
 | Original | New lyrics |
 | ----------------------------------------------------- | ----------------------------------------------------------------------------------- |
