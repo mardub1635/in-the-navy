@@ -21,15 +21,13 @@ Since the project is both on github and gitlab I store the issues in this Readme
 
 
 
+
 # Acknowledgement
 Thanks to my colleagues at [Uppsala Women Coding](https://www.meetup.com/fr-FR/Uppsala-women-coding-beginners-welcome/) for boosting the local coding community. In particular, [Kattis for her terminal workshop](https://github.com/kattisA/terminal-workshop) and [Carolina for her blogpost](https://46elks.se/blog/2022/02/guide-terminalen) that helps Swedish beginners to learn and thanks to both of them their ever enthousiastic organisation efforts!
 
 On the more international community, the lyrics writing was a lot inspired by the notebook of [Melanie Walsh](https://melaniewalsh.github.io/Intro-Cultural-Analytics/01-Command-Line/01-The-Command-Line.html). It helped me ajusting the level to beginners student and it is excellent material for my students.
 
 # Credits
-Lyricist: @mardub (gitlab) or @mardub1635 (github)
-
-
-
+Lyricist: @mardub (gitlab) or @mardub1635 (github) feel free to contact me at: mardubr-site@yahoo.com [www.uppsala.ai](www.uppsala.ai)
 
 

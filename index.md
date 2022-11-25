@@ -91,4 +91,4 @@ Thanks to my colleagues at [Uppsala Women Coding](https://www.meetup.com/fr-FR/U
 On the more international community, the lyrics writing was a lot inspired by the notebook of [Melanie Walsh](https://melaniewalsh.github.io/Intro-Cultural-Analytics/01-Command-Line/01-The-Command-Line.html). It helped me ajusting the level to beginners student and it is excellent material for my students.
 
 # Credits
-Lyricist: @mardub (gitlab) or @mardub1635 (github) feel free to contact me at: mardubr-site@yahoo.com www.uppsala.ai
+Lyricist: @mardub (gitlab) or @mardub1635 (github) feel free to contact me at: mardubr-site@yahoo.com [www.uppsala.ai](www.uppsala.ai)
