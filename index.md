@@ -85,13 +85,13 @@ access root with a slash, escape with anti-slash |  | search the doc via "man" ,
 | Come on people and make a stand | Don't put space in your filenames |
 
 
-# Acknowledgement
-Thanks to my colleagues at [Uppsala Women Coding](https://www.meetup.com/fr-FR/Uppsala-women-coding-beginners-welcome/) for boosting the local coding community. In particular, [Kattis for her terminal workshop](https://github.com/kattisA/terminal-workshop) and [Carolina for her blogpost](https://46elks.se/blog/2022/02/guide-terminalen) that helps Swedish beginners to learn and thanks to both of them their ever enthousiastic organisation efforts!
+# Acknowledgement / resources
+Thanks to my Kattis and Carolina at [Uppsala Women Coding](https://www.meetup.com/fr-FR/Uppsala-women-coding-beginners-welcome/) for boosting the group. Swedish terminal users can see see [Kattis and her terminal workshop](https://github.com/kattisA/terminal-workshop) and [Carolina her her blogpost](https://46elks.se/blog/2022/02/guide-terminalen) .
 
-On the more international community, the lyrics writing was a lot inspired by the notebook of [Melanie Walsh](https://melaniewalsh.github.io/Intro-Cultural-Analytics/01-Command-Line/01-The-Command-Line.html). It helped me ajusting the level to beginners student and it is excellent material for my students.
+On the more international community, the lyrics writing was a lot inspired by the notebook of [Melanie Walsh](https://melaniewalsh.github.io/Intro-Cultural-Analytics/01-Command-Line/01-The-Command-Line.html).
 
 # Credits
-Lyricist: @mardub (gitlab) or @mardub1635 (github) feel free to contact me at: mardubr-site@yahoo.com [www.uppsala.ai](www.uppsala.ai)
+Lyricist: @mardub (gitlab) or @mardub1635 (github) [www.uppsala.ai](www.uppsala.ai)mardubr-site@yahoo.com 
 
 # Support
 I regularly wonder how to develop my open source activity. You can help me! By answering the following form: [https://framaforms.org/pick-next-project-1669578695](https://framaforms.org/pick-next-project-1669578695)
