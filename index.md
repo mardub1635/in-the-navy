@@ -94,4 +94,4 @@ On the more international community, the lyrics writing was a lot inspired by th
 Lyricist: @mardub (gitlab) or @mardub1635 (github) feel free to contact me at: mardubr-site@yahoo.com [www.uppsala.ai](www.uppsala.ai)
 
 # Support
-I regularly wonder how to develop my open source activity. You can help me! By answering the following form: [https://framaforms.org/pick-next-project-1669578695](link)
+I regularly wonder how to develop my open source activity. You can help me! By answering the following form: [https://framaforms.org/pick-next-project-1669578695](https://framaforms.org/pick-next-project-1669578695)
