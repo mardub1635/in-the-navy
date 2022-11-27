@@ -1,7 +1,7 @@
 # In the shell script
 
 ## On the music of "In the navy" by the village people
-# HELP ! I need a singer [see Issues](https://gitlab.com/mardub/song/-/blob/main/Readme.md)
+## HELP ! I need a singer [see Issues](https://gitlab.com/mardub/song/-/blob/main/Readme.md)
 ## You can listen to part of the song in this prototype [video](https://diode.zone/w/r1QtvPKcx1rqMNyZG8Ti6P)
 
 | Original | New lyrics |
@@ -86,7 +86,7 @@ access root with a slash, escape with anti-slash |  | search the doc via "man" ,
 
 
 # Acknowledgement / resources
-Thanks to my Kattis and Carolina at [Uppsala Women Coding](https://www.meetup.com/fr-FR/Uppsala-women-coding-beginners-welcome/) for boosting the group. Swedish terminal users can see see [Kattis and her terminal workshop](https://github.com/kattisA/terminal-workshop) and [Carolina her her blogpost](https://46elks.se/blog/2022/02/guide-terminalen) .
+Thanks to my Kattis and Carolina at [Uppsala Women Coding](https://www.meetup.com/fr-FR/Uppsala-women-coding-beginners-welcome/) for boosting the group. Swedish terminal users can see see [Kattis and her terminal workshop](https://github.com/kattisA/terminal-workshop) and [Carolina's blogpost](https://46elks.se/blog/2022/02/guide-terminalen) .
 
 On the more international community, the lyrics writing was a lot inspired by the notebook of [Melanie Walsh](https://melaniewalsh.github.io/Intro-Cultural-Analytics/01-Command-Line/01-The-Command-Line.html).
 
