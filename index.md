@@ -12,7 +12,7 @@
 | On the land or on the sea? |by command rather than gui? |
 |    Where can you learn to fly, play in sports and skin dive | where can you make programs change or  move delete files |
 | Study oceanography? | in just one letter or three? |
-| Sign off for the big band or sit in the grandstand  |  enigmatic white dash, blincking on my black bash  |  | 
+| Sign off for the big band or sit in the grandstand  |  escape with anti-slash, space sneaked in my filepath  |  | 
 access root with a slash, escape with anti-slash |  | search the doc via "man" , shave like Richard stallman |
 | When your team and others meet |  Why does it say "File missing"?  |
 | In the navy | in the shell script |
