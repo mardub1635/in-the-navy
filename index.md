@@ -12,7 +12,7 @@
 | On the land or on the sea? |by command rather than gui? |
 |    Where can you learn to fly, play in sports and skin dive | where can you make programs change or  move delete files |
 | Study oceanography? | in just one letter or three? |
-| Sign off for the big band or sit in the grandstand  |  escape with oblique line, space and path don't work fine |  | 
+| Sign off for the big band or sit in the grandstand  |  escape with oblique line, space in name don't work fine |  | 
 access root with a slash, escape with anti-slash |  | search the doc via "man" , shave like Richard stallman |
 | When your team and others meet |  Why does it say "File missing"?  |
 | In the navy | in the shell script |
@@ -28,7 +28,7 @@ access root with a slash, escape with anti-slash |  | search the doc via "man" ,
 | In the navy  |  In the shell script |
 | Come on and join your fellow man  |   But how to change directory? |
 | In the navy  |  Just use CD |
-| Come on people and make a stand  |  Oh right I type DIR or CD! |
+| Come on people and make a stand  |  Oh right I change dir with CD! |
 | In the navy, in the navy, in the navy, oh | In the shell script, in the shell script, oh
 | They want you, they want you  |  press the tab, press the tab |
 | They want you as a new recruit  |  press the tab will autocomplete |
@@ -94,4 +94,4 @@ On the more international community, the lyrics writing was a lot inspired by th
 Lyricist: @mardub (gitlab) or @mardub1635 (github) [www.uppsala.ai](www.uppsala.ai)mardubr-site@yahoo.com 
 
 # Support
-I regularly wonder how to develop my open source activity. You can help me! By answering the following form: [https://framaforms.org/pick-next-project-1669578695](https://framaforms.org/pick-next-project-1669578695)
+Want more songs? Visit my [support page](https://mardub.gitlab.io/donate/)
